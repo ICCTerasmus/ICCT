@@ -86,4 +86,6 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](L
 ## Acknowledgments
 
 * An Erasmus+ funded initiative under grant #2018-1-SI01-KA203-047081 (subject: KA2-HE-04/18)
-Call: 2018. KA2 - Cooperation for Innovation and the Exchange of Good Practices. KA203 - Strategic Partnerships for higher education
+Call: 2018. KA2 - Cooperation for Innovation and the Exchange of Good Practices. KA203 - Strategic Partnerships for higher education.
+
+The European Commission's support for the production of this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.
