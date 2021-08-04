@@ -1,6 +1,6 @@
 # Interactive Course for Control Theory
 
-Interactive Course for Control Theory (ICCT) is an online course based on the active learning concept developed within the Erasmus+ Programme of the European Union. The course is available [here](https://icct.riteh.hr/). This repository provides access to the contents of the platform, which are organized in the form of Jupyter notebooks (written in Python).
+Interactive Course for Control Theory (ICCT) is an online course based on the active learning concept developed within the Erasmus+ Programme of the European Union. The course is available [here](https://icct.unipi.it/). This repository provides access to the contents of the platform, which are organized in the form of Jupyter notebooks (written in Python).
 
 ## Getting Started
 
