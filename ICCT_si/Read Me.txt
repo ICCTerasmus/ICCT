@@ -1,0 +1,11 @@
+--- Kako deluje spletni tečaj ICCT? ---
+
+1. Odpri datoteko "Kazalo-ICCT.ipynb".
+
+2. Pokazalo se bo kazalo vsebine tečaja. Klikni na izbran interaktivni primer, da ga odpreš.
+
+3. Klikni na "Cell - Run All", da zaženeš primer (občasno je potrebno, da ta korak izvedeš dvakrat, da se primer uspešno zažene).
+
+4. Interaktivno upravljaj izbrani primer in ka zaključiš, klikni na "File - Close and Halt". Vsak posamezen uporabnik ima na voljo 500 MB spomina; ključno je, da zaustaviš izvajanje primera in ga zapreš, da sprostiš spomin.
+
+------------------------------------

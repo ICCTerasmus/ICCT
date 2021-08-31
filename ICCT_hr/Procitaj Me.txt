@@ -1,0 +1,11 @@
+--- Kako radi platforma ICCT? ---
+
+1. Otvorite mapu ICCT, a zatim kliknite na "Tablica-Primjera-ICCT.ipynb". 
+
+2. Pojavit će se tablica (sadržaj) s popisom primjera. Za otvaranje specifičnog primjera, kliknite na njegovo ime.
+
+3. Za pokretanje dotičnog primjera, kliknite na "Cell - Run All" (ili na odgovarajuću ikonu 'Play' u alatnoj traci).
+
+4. Radite s primjerom koristeći interaktivne widgete, a kada završite - kliknite na "File - Close and Halt" (ili na odgovarajuću ikonu 'Stop' u alatnoj traci). Memorijsko ograničenje vrjedi za svakog pojedinačnog korisnika; stoga je po završetku rada potrebno zaustaviti i zatvoriti interaktivni primjer kako bi se oslobodila memorija na poslužitelju.
+
+------------------------------------

@@ -1,0 +1,11 @@
+--- Come funziona la piattaforma ICCT? ---
+
+1. Apri la cartella ICCT e clicca su "Tabella-dei-Contenuti-ICCT.ipynb".
+
+2. Si aprirà una tabella dei contenuti. Clicca sull'esempio scelto per aprirlo.
+
+3. Clicca su "Cell - Run All" per far partire l'esempio.
+
+4. Interagisci con l'esempio e quando finisci clicca "File - Close and Halt". Per ogni singolo utente è presente un limite alla memoria disponibile (500 MB); è quindi necessario uscire dall'esempio cliccando su "close and halt" in modo da liberare la memoria.
+
+------------------------------------

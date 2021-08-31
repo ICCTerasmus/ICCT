@@ -1,0 +1,11 @@
+--- Hogyan használható az ICCT platform? ---
+
+1. Nyissa meg az ICCT mappát és kattintson a "Tartalomjegyzék-ICCT.ipynb"-re.
+
+2. Megnyílik a tartalomjegyzék. Kattintson a kiválasztott példára annak megynitásához.
+
+3. Kattintson a "Cell - Run All" gombra a példa futtatásához.
+
+4. Használja a példát, majd miután befejezte, kattintson a "File - Close and Halt" gombra. Egy memória korlát (500 MB) érvényes minden felhasználóra; ezért a memória felszabadításához a befejezett példák leállítása szükséges.
+
+------------------------------------
